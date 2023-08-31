@@ -1,8 +1,7 @@
 # Customer Segmentation Using K-Means Clustering
 
-![Project Image](project_image.jpg)
 
-This project focuses on customer segmentation using the K-means clustering algorithm. The goal is to group customers into distinct classes based on their attributes and behaviors, with a focus on identifying those who are likely to subscribe to a bank term deposit.
+This project focuses on customer segmentation using the K-means clustering algorithm. The goal is to group customers into distinct classes based on their attributes and behaviors, focusing on identifying those likely to subscribe to a bank term deposit.
 
 ## Table of Contents
 
@@ -20,7 +19,7 @@ In the domain of direct marketing campaigns for a Portuguese banking institution
 
 ## Dataset
 
-The dataset used in this project originates from direct marketing campaigns and contains a variety of customer attributes such as age, job type, marital status, contact methods, and more. It also includes the crucial outcome variable - whether the customer subscribed to a bank term deposit or not.
+The dataset used in this project originates from direct marketing campaigns and contains a variety of customer attributes such as age, job type, marital status, contact methods, and more. It also includes the crucial outcome variable - whether or not the customer subscribed to a bank term deposit.
 
 ## Data Preprocessing
 
